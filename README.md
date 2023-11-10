@@ -1,2 +1,2 @@
-# Gir-Learning
+# Git-Learning
 This is learn git
